@@ -1,4 +1,5 @@
 
+rm(list=ls())
 
 # load the source code 
 
